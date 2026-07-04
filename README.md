@@ -39,7 +39,10 @@
 
 <p align="center">
   <a href="https://jizellecasia.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio_Website-FFC0CB?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
+  </a>
+  <a href="https://github.com/jijishub" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://ko-fi.com/cloudji" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
