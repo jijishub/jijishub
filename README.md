@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100%' height='2'><rect width='100%' height='2' fill='%23FFC0CB'/></svg>" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%" alt="divider" />
 </p>
 
 <h3 align="center">‧₊˚ ☁️⋅♡ Tech Stack & Tools</h3>
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100%' height='2'><rect width='100%' height='2' fill='%23FFC0CB'/></svg>" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%" alt="divider" />
 </p>
 
 <h3 align="center">𓍢ִ໋🌷͙֒ Let's Connect!</h3>
