@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://jizellecasia.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_Website-121013?style=for-the-badge&logo=google-chrome&logoColor=lightpink" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio_Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/jijishub" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
