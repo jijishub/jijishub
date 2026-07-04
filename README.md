@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
----
+<hr style="border: none; height: 2px; background-color: #FFC0CB; margin: 30px 0;" />
 
 <h3 align="center">𓍢ִ໋🌷͙֒ Let's Connect!</h3>
 
