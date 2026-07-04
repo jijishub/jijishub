@@ -1,7 +1,7 @@
 <h3 align="center">Hi there! 🪷</h3>
 
 <p align="center">
-  I'm <b><a href="https://jizellecasia.vercel.app" target="_blank">Jizelle</a></b>, a creative technologist and artist based in Metro Manila. 
+  I'm <b><a href="https://jizellecasia.vercel.app" target="_blank">Jizelle</a></b>, an information technologist and creative based in Metro Manila. 
 </p>
 
 <p align="center">
