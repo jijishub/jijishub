@@ -12,7 +12,9 @@
   Outside of work, I love to read and collect books, play video games, and do all sorts of art and tech. I like all things science, and I have a gazillion hobbies.
 </p>
 
-<hr style="border: none; height: 2px; background-color: #FFC0CB; margin: 30px 0;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/api?type=rect&color=FFC0CB&height=2&section=header" width="100%" alt="divider" />
+</p>
 
 <h3 align="center">‧₊˚ ☁️⋅♡ Tech Stack & Tools</h3>
 
@@ -35,7 +37,9 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-<hr style="border: none; height: 2px; background-color: #FFC0CB; margin: 30px 0;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/api?type=rect&color=FFC0CB&height=2&section=header" width="100%" alt="divider" />
+</p>
 
 <h3 align="center">𓍢ִ໋🌷͙֒ Let's Connect!</h3>
 
