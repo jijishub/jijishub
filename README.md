@@ -12,7 +12,7 @@
   Outside of work, I love to read and collect books, play video games, and do all sorts of art and tech. I like all things science, and I have a gazillion hobbies.
 </p>
 
----
+<hr style="border: none; height: 2px; background-color: #FFC0CB; margin: 30px 0;" />
 
 <h3 align="center">‧₊˚ ☁️⋅♡ Tech Stack & Tools</h3>
 
