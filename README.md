@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I currently work as a <b>Junior Forward Deployed Engineer at GDS Capital</b>, where I help automate internal workflows, implement AI, and am deployed to create and maintain client-facing applications. I also run <b><a href="https://linktr.ee/cloudji" target="_blank">Cloudji</a></b> ☁️, an independent digital product brand with over 6,500 followers and 15,000+ downloads worldwide. 
+  I currently work as a Junior Forward Deployed Engineer at <b>GDS Capital</b>, where I help automate internal workflows, implement AI, and am deployed to create and maintain client-facing applications. I also run <b><a href="https://linktr.ee/cloudji" target="_blank">Cloudji</a></b> ☁️, an independent digital product brand with over 6,500 followers and 15,000+ downloads worldwide. 
 </p>
 
 <p align="center">
