@@ -12,9 +12,7 @@
   Outside of work, I love to read and collect books, play video games, and do all sorts of art and tech. I like all things science, and I have a gazillion hobbies.
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%" alt="divider" />
-</p>
+---
 
 <h3 align="center">‧₊˚ ☁️⋅♡ Tech Stack & Tools</h3>
 
@@ -37,9 +35,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%" alt="divider" />
-</p>
+---
 
 <h3 align="center">𓍢ִ໋🌷͙֒ Let's Connect!</h3>
 
