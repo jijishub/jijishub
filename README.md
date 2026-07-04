@@ -1,11 +1,11 @@
 <h3 align="center">Hi there! 🪷</h3>
 
 <p align="center">
-  I'm <b>Jizelle</b>, an information technologist and artist based in Metro Manila.
+  I'm <b>Jizelle</b>, a creative technologist and artist based in Metro Manila.
 </p>
 
 <p align="center">
-  I currently work as a <b>Junior Forward Deployed Engineer at GDS Capital</b>, where I help automate internal workflows, implement and explore AI, and am deployed to create and maintain client-facing applications. I also run <b>Cloudji</b>, an independent digital product brand with over 6,500 followers and 15,000+ downloads worldwide. 
+  I currently work as a <b>Junior Forward Deployed Engineer at GDS Capital</b>, where I help automate internal workflows, implement AI, and am deployed to create and maintain client-facing applications. I also run <b>Cloudji</b>, an independent digital product brand with over 6,500 followers and 15,000+ downloads worldwide. 
 </p>
 
 <p align="center">
@@ -20,6 +20,8 @@
   <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
