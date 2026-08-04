@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! 🪷</h3>
+<h3 align="center">Hi! 🪷</h3>
 
 <p align="center">
   I'm <b><a href="https://jizellecasia.vercel.app" target="_blank">Jizelle</a></b>, an information technologist and creative based in Metro Manila. 
