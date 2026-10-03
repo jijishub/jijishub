@@ -1,11 +1,11 @@
 <h3 align="center">Hi! 🪷</h3>
 
 <p align="center">
-  I'm <b><a href="https://jizellecasia.vercel.app" target="_blank">Jizelle</a></b>, an IT professional and creative based in Metro Manila. 
+  I'm <b><a href="https://jizellecasia.vercel.app" target="_blank">Jizelle</a></b>, an IT professional, engineer, and creative based in Metro Manila. 
 </p>
 
 <p align="center">
-  I currently work as a <b>Junior Forward Deployed Engineer</b> at <b>GDS Capital</b>, where I help automate internal workflows, implement AI, and am deployed to create and maintain client-facing applications. I also run <b><a href="https://linktr.ee/cloudji" target="_blank">Cloudji</a></b> ☁️, an independent digital product brand with over 6,500 followers and 15,000+ downloads worldwide. 
+  I run <b><a href="https://linktr.ee/cloudji" target="_blank">Cloudji</a></b> ☁️, an independent digital product brand with over 6,500 followers and 15,000+ downloads worldwide. 
 </p>
 
 <p align="center">
