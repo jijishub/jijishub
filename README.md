@@ -6,7 +6,7 @@
 
 <p align="center">
   Currently working as <b>Junior Solutions Engineer</b> @ <b>MergePoint AI.</b>
-  Outside of work I run <b><a href="https://linktr.ee/cloudji" target="_blank">Cloudji</a></b> ☁️, an independent digital product brand with over 6,500 followers and 15,000+ downloads worldwide. 
+  On the side, I run <b><a href="https://linktr.ee/cloudji" target="_blank">Cloudji</a></b> ☁️, an independent digital product brand with over 6,500 followers and 15,000+ downloads worldwide. 
 </p>
 
 <p align="center">
