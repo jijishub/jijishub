@@ -1,4 +1,4 @@
-<h3 align="center">Hi! 🪷</h3>
+<h3 align="center">Hello! 🪷 </h3>
 
 <p align="center">
   I'm <b><a href="https://jizellecasia.vercel.app" target="_blank">Jizelle</a></b>, an IT professional, engineer, and creative based in Metro Manila. 
@@ -36,7 +36,7 @@
 
 ---
 
-<h3 align="center">𓍢ִ໋🌷͙֒ Let's Connect!</h3>
+<h3 align="center">𓍢ִ໋🌷͙֒  Let's Connect!</h3>
 
 <p align="center">
   <a href="https://jizellecasia.vercel.app" target="_blank">
