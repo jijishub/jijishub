@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  I run <b><a href="https://linktr.ee/cloudji" target="_blank">Cloudji</a></b> ☁️, an independent digital product brand with over 6,500 followers and 15,000+ downloads worldwide. 
+  Currently working as <b>Junior Solutions Engineer</b> @ <b>MergePoint AI.</b>a> 
+  Outside of work I run <b><a href="https://linktr.ee/cloudji" target="_blank">Cloudji</a></b> ☁️, an independent digital product brand with over 6,500 followers and 15,000+ downloads worldwide. 
 </p>
 
 <p align="center">
