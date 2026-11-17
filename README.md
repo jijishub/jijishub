@@ -36,7 +36,7 @@
 
 ---
 
-<h3 align="center">𓍢ִ໋🌷͙֒  Let's Connect!</h3>
+<h3 align="center">𓍢ִ໋🌷͙֒   Let's Connect!</h3>
 
 <p align="center">
   <a href="https://jizellecasia.vercel.app" target="_blank">
